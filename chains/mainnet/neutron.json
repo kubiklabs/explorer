@@ -1,0 +1,24 @@
+{
+    "chain_name": "neutron-1",
+    "coingecko": "neutron",
+    "api": "http://45.250.253.23:1317",
+    "rpc": [
+      "http://45.250.253.23:26657",
+      "http://45.250.253.23:26657"
+    ],
+    "snapshot_provider": "",
+    "sdk_version": "0.45.15",
+    "coin_type": "118", 
+    "min_tx_fee": "3000",
+    "addr_prefix": "neutron",
+    "logo": "",
+    "assets": [
+      {
+        "base": "untrn",
+        "symbol": "ntrn",
+        "exponent": "6",
+        "coingecko_id": "neutron-3",
+        "logo": ""
+      }
+    ]
+}
