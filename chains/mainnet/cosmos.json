@@ -1,10 +1,10 @@
 {
     "chain_name": "gaia-1",
     "coingecko": "cosmos",
-    "api": "http://45.250.253.23:1316",
+    "api": "https://cosmos-remotenet-api.kubiklabs.xyz",
     "rpc": [
-      "http://45.250.253.23:16657",
-      "http://45.250.253.23:16657"
+      "https://cosmos-remotenet-rpc.kubiklabs.xyz",
+      "https://cosmos-remotenet-rpc.kubiklabs.xyz"
     ],
     "snapshot_provider": "",
     "sdk_version": "0.45.6",

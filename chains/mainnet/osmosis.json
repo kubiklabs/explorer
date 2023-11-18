@@ -1,10 +1,10 @@
 {
     "chain_name": "osmosis-1",
     "coingecko": "osmosis",
-    "api": "http://45.250.253.23:1314",
+    "api": "https://osmosis-remotenet-api.kubiklabs.xyz",
     "rpc": [
-      "http://45.250.253.23:46657",
-      "http://45.250.253.23:46657"
+      "https://osmosis-remotenet-rpc.kubiklabs.xyz",
+      "https://osmosis-remotenet-rpc.kubiklabs.xyz"
     ],
     "snapshot_provider": "",
     "sdk_version": "0.45.6",

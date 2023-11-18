@@ -1,10 +1,10 @@
 {
     "chain_name": "juno-1",
     "coingecko": "juno",
-    "api": "http://45.250.253.23:1315",
+    "api": "https://juno-remotenet-api.kubiklabs.xyz",
     "rpc": [
-      "http://45.250.253.23:36657",
-      "http://45.250.253.23:36657"
+      "https://juno-remotenet-rpc.kubiklabs.xyz",
+      "https://juno-remotenet-rpc.kubiklabs.xyz"
     ],
     "snapshot_provider": "",
     "sdk_version": "0.45.6",
